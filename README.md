@@ -35,7 +35,7 @@
    
 3. If you want to run in terminal
 ```
-npm start
+Cryptobot.exe
 ```
 
 
